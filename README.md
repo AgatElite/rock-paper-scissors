@@ -16,3 +16,11 @@ This project follows a rigorous methodology to explore the development of a robu
 
 The complete methodology, analysis, and conclusions are detailed in the accompanying paper, `RPS-Paper.pdf`.
 
+## Repository Contents
+
+* `RPS-Code.ipynb`: The main Google Colab notebook containing all the Python code for data loading, preprocessing, model training, and evaluation.
+* `RPS-Paper.pdf`: The final project report in PDF format.
+* `main.tex`: The LaTeX source code for the project report.
+* `sn-jnl.cls`: Class file needed to compile the LaTeX source code.
+* `images/`: A directory containing the plot images used in the report.
+* `README.md`: This file.
