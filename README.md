@@ -22,4 +22,5 @@ The complete methodology, analysis, and conclusions are detailed in the accompan
 * `RPS-Paper.pdf`: The final project report in PDF format.
 * `main.tex`: The LaTeX source code for the project report.
 * `sn-jnl.cls`: Class file needed to compile the LaTeX source code.
+* `images/`: Folder containing images from the paper
 * `README.md`: This file.
