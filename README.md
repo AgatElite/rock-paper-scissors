@@ -23,4 +23,5 @@ The complete methodology, analysis, and conclusions are detailed in the accompan
 * `main.tex`: The LaTeX source code for the project report.
 * `sn-jnl.cls`: Class file needed to compile the LaTeX source code.
 * `images/`: Folder containing images from the paper
+* `paper_template.tex`: LaTeX template used for the paper's layout
 * `README.md`: This file.
